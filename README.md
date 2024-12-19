@@ -20,3 +20,5 @@ GPT-2の日本語学習済みモデルかGPT3のAPI使用したファインチ�
 https://www.aozora.gr.jp/index.html
 https://www.sejuku.net/blog/212843#aaa
 https://developer.mamezou-tech.com/blogs/2022/07/08/gpt-2-japanese/
+
+https://www.chakra-ui.com/docs/get-started/frameworks/next-app
